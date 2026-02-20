@@ -47,7 +47,7 @@ Built with:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/NagaPranathi-33/civil-engineering-insight-studio.git
+git clone https://github.com/PepetiLakshmana/civil-engineering-insight-studio.git
 ```
 
 ---
